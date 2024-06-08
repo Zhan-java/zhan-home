@@ -6,15 +6,14 @@ autodl用户可在线体验GPT-SoVITS完整功能https://www.codewithgpu.com/i/R
 关注UP主并私信GPT/gpt/sovits/SOVITS/SoVITS/SVC/svc(斜杠是随便回一个的意思)自动获取训练推理整合包下载链接 
 
 
-
+2.
 大佬的软件太好用了，可是度盘下载速度好慢，我搬运了一份在阿里云盘，不是会员下载也很快，有需要的兄弟自取。
 再次感谢花儿不哭大佬！
 
 https://www.alipan.com/s/HqaaDiEHrMh​
 
 
-
-
+3.
 
 github发布地址https://github.com/RVC-Boss/GPT-SoVITS，欢迎一起参与贡献
 GPT-SoVITS软件问题答疑互助群830730269
